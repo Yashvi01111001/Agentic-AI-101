@@ -1,0 +1,42 @@
+# 🐍 Python cache and bytecode
+__pycache__/
+*.py[cod]
+*.so
+
+# ⚙️ Virtual environments
+venv/
+env/
+
+# 🔐 Environment and API keys
+.env
+
+# 🧪 Logs, debug and output files
+*.log
+*.out
+
+# 💾 Local databases, cache, or temp data
+*.db
+*.sqlite3
+*.csv
+*.pkl
+*.h5
+*.pt
+
+# 🎨 IDE/editor settings
+.vscode/
+.idea/
+*.swp
+
+# 🍏 macOS metadata
+.DS_Store
+
+# 🌐 Streamlit app configs
+.streamlit/
+**/.streamlit/
+
+# 📓 Jupyter notebook checkpoints (if using notebooks)
+.ipynb_checkpoints/
+
+# 🤖 Agentic AI specific (if Agno or Groq store configs locally)
+.agno/
+.groq/
