@@ -4,7 +4,9 @@
 ## Why Agentic AI?
 ![Agentic AI superiority against RAG and Tool-Augmented Chatbot](screenshots/agentic_ai.png)
 
-## Files  
-**`simpleagents.py`**:
+ 
+**`1. simpleagents.py`**:
+## Input message from user & tools called:
 ![Input message from user](screenshots/message.png)
+## Agent's Response:
 ![Response](screenshots/response.png)
